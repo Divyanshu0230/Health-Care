@@ -13,6 +13,54 @@ COMRED is a web-based Clinical Decision Support System (CDSS) that helps users p
 - Python ML backend (Flask)
 - EJS templating and Express.js
 
+## Screenshots
+
+Below are screenshots of the COMRED application, showing the user interface and workflow:
+
+1. **Home Page (Welcome to ComRed)**
+   - Main dashboard with options for Heart Disease Prognosis, Miscellaneous Clinical Diseases Diagnosis, and Diabetes Diagnosis.
+   
+   ![Home Page](screenshots/1_home.png)
+
+2. **Login Page (Prompted to Login)**
+   - User is prompted to log in before accessing features.
+   
+   ![Login Prompt](screenshots/2_login_prompt.png)
+
+3. **Login Page (Standard Login)**
+   - User can enter email and password to log in.
+   
+   ![Login Page](screenshots/3_login.png)
+
+4. **Register Page**
+   - New users can register for an account.
+   
+   ![Register Page](screenshots/4_register.png)
+
+5. **Home Page (Logged In)**
+   - Dashboard view after successful login, showing user info and logout option.
+   
+   ![Home Logged In](screenshots/5_home_logged_in.png)
+
+6. **Heart Disease Prognosis Form**
+   - User fills in health parameters for heart prognosis prediction.
+   
+   ![Heart Prognosis Form](screenshots/6_heart_prognosis_form.png)
+
+7. **Heart Prognosis Result (Loading/Ready)**
+   - Result loading screen with a message to prepare the user for the result.
+   
+   ![Heart Prognosis Loading](screenshots/7_heart_prognosis_loading.png)
+
+8. **Heart Prognosis Result (Prediction)**
+   - Final prediction result for heart disease prognosis.
+   
+   ![Heart Prognosis Result](screenshots/8_heart_prognosis_result.png)
+
+---
+
+> **Note:** Place your screenshots in a `screenshots/` folder in the project root and name them as shown above for the images to render correctly in GitHub.
+
 ## Setup Instructions
 
 ### Prerequisites
